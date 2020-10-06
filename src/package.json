@@ -1,0 +1,32 @@
+{
+  "name": "axdgride",
+  "version": "0.0.1",
+  "description": "grille dev web-design",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "webpack-dev-server --open",
+      "build": "webpack" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkvadehors/repo-nomades/tree/master/web-programmer/projet/src"
+  },
+  "author": "John Ben",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^6.2.0",
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
+    "html-loader": "^1.3.1",
+    "html-webpack-plugin": "^4.5.0",
+    "mini-css-extract-plugin": "^0.11.3",
+    "style-loader": "^1.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
