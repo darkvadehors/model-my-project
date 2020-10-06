@@ -367,3 +367,4 @@ _MACOSX
 
 # Windows
 Thumbs.db
+src/.DS_Store
