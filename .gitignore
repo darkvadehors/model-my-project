@@ -362,10 +362,8 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Mac - Desktop Services Store
-.DS_Store
-_MACOSX
+*.DS_Store
+*_MACOSX
 
 # Windows
-Thumbs.db
-src/.DS_Store
-src/.DS_Store
+*Thumbs.db
