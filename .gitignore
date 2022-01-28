@@ -367,3 +367,4 @@ FodyWeavers.xsd
 
 # Windows
 *Thumbs.db
+src/.DS_Store
